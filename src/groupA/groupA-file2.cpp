@@ -4,6 +4,6 @@ void doSubTaskA()
 {
     for(int i=0; i<5; i++)
     {
-        cout << "doSubTaskA " << i+1 << endl;
+        std::cout << "doSubTaskA " << i+1 << std::endl;
     }
 }

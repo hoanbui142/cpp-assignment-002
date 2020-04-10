@@ -1,10 +1,11 @@
+#include <iostream>
 #include "DogClass.h"
 
 void Dog::Bark()
 {
-    cout << "Barking" << endl;
+    std::cout << "Barking" << std::endl;
 }
 void Dog::Run()
 {
-    cout << "Running" << endl;
+    std::cout << "Running" << std::endl;
 }
