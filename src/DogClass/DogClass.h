@@ -1,5 +1,3 @@
-
-
 //Declare DogClass function
 class Dog
 {
